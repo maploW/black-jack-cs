@@ -1,0 +1,10 @@
+D:\VS Projects\BlackJackC\BlackJackC\bin\Debug\BlackJackC.exe.config
+D:\VS Projects\BlackJackC\BlackJackC\bin\Debug\BlackJackC.exe
+D:\VS Projects\BlackJackC\BlackJackC\bin\Debug\BlackJackC.pdb
+D:\VS Projects\BlackJackC\BlackJackC\obj\Debug\BlackJackC.csproj.AssemblyReference.cache
+D:\VS Projects\BlackJackC\BlackJackC\obj\Debug\BlackJackC.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\BlackJackC\BlackJackC\obj\Debug\BlackJackC.csproj.CoreCompileInputs.cache
+D:\VS Projects\BlackJackC\BlackJackC\obj\Debug\BlackJackC.exe
+D:\VS Projects\BlackJackC\BlackJackC\obj\Debug\BlackJackC.pdb
+D:\VS Projects\BlackJackC\BlackJackC\obj\Debug\BlackJackC.Properties.Resources.resources
+D:\VS Projects\BlackJackC\BlackJackC\obj\Debug\BlackJackC.csproj.GenerateResource.cache
